@@ -1,2 +1,2 @@
-# TodoList
-✨ Angular Todo List: Amazing App to Organising your day ✨
+## Angular Crud Application 📋📌
+✨ Angular Crud application: Amazing App to Organising your day ✨
